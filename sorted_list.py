@@ -12,3 +12,7 @@ class Solution:
 result=Solution.intersection(nums1,nums2)
 
 print(result)
+
+"""
+https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=daily-question&envId=2024-03-10
+"""
